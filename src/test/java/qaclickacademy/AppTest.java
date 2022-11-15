@@ -18,7 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-        System.out.print("tuuuuuuuuuuuuuuuuuu");
+        System.out.print("develop");
     }
 
     /**
